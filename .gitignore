@@ -1,0 +1,8 @@
+build/
+managed_components/
+sdkconfig
+sdkconfig.old
+.idea/
+cmake-build-*/
+.claude/settings.local.json
+.mcp.json
